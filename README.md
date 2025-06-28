@@ -108,7 +108,7 @@ Background image set via static/style.css
 Clean minimalistic HTML structure
 
 👩‍💻 Author
-Ujwala Perugu
+Akhilesh Pagidi
 
 📌 Note
 This is a development version. For production, consider deploying with gunicorn or Docker.
